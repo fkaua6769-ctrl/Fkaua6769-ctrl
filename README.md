@@ -5,8 +5,8 @@ Sou estudante de Desenvolvimento de Sistemas (ETEC), Eletricista de Manutenção
 
 ## 🧠 Conhecimentos tecnológicos:
 * 🐍 **Python** (Lógica e Programação)
-* 🌐 **HTML5** (Estruturação Web)
-* 🎨 **CSS3** (Estilização Visual)
+* 🌐 **HTML** (Estruturação Web)
+* 🎨 **CSS** (Estilização Visual)
 
 ## 🎯 Objetivo:
 Aprender mais sobre tecnologia, programação e aplicação de equipamentos eletroeletrônicos.
