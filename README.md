@@ -1,7 +1,7 @@
 # Olá, eu sou o Kauã! 👋
 
 ## 👤 Sobre mim:
-Sou estudante de Desenvolvimento de Sistemas (ETEC), Eletricista de Manutenção Eletroeletrônica (SENAI) e também possuo outros cursos voltados para a área da tecnologia.
+Sou estudante de Desenvolvimento de Sistemas (ETEC), Eletricista de Manutenção Eletroeletrônica (SENAI) e também possuo outros cursos relacionados a tecnologia.
 
 ## 🧠 Conhecimentos tecnológicos:
 * 🐍 **Python** (Lógica e Programação)
